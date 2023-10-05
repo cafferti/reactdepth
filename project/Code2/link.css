@@ -1,0 +1,22 @@
+body{
+    
+}
+img{
+    display: block;
+    
+}
+main{
+    margin-inline: 20%;
+    margin-block: 50%;
+    text-align: center;
+
+
+
+}
+.zeus{
+    margin-inline: 30%;
+    margin-block: 10%;
+    display: flex;
+    
+
+}
